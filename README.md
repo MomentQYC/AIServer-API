@@ -33,7 +33,10 @@ python3 manage.py runserver 0.0.0.0:8000
 ```
 
 # Feature
-Conversation and pornography identification.
+- [x] Conversation and pornography identification.  
+- [ ] Rumor Identification.  
+- [ ] Access Key.  
+- [ ] More...  
 Next, we need to implement more features.
 
 # Donation
