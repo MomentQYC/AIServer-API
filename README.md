@@ -18,7 +18,7 @@ pip install paddlepaddle-gpu
 ```
 
 ## Operation
-The first time you run it, you need to first run the following command in [setting.py](https://github.com/MomentQYC/AIServer-API/blob/master/aichat/settings.py):
+The first time you run it, you need to Modify database parameters in [setting.py](https://github.com/MomentQYC/AIServer-API/blob/master/aichat/settings.py), then you need to first run the following command in the root directory of the project:
 ```py
 python3 manage.py migrate
 ```
