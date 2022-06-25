@@ -1,5 +1,5 @@
 # AIServer-API
-An API based on Django.
+An API based on Django.  
 English | [简体中文](README_ch.md)
 
 ## Introduction
