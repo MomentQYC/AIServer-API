@@ -11,6 +11,8 @@ If you do not have python, please go to [the official Python website](https://ww
 ##### Before installation, please **confirm that your pip configuration is OK**, and check the network conditions in your country or region.
 ```py
 pip install -r requirements.txt
+hub install plato-mini
+hub install porn_detection_cnn
 ```
 If you are running with a GPU, you can run the following command.
 ```py
