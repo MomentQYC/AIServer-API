@@ -11,6 +11,8 @@
 ##### 在安装前，请**确保您的pip设置没有问题**，并使pip设置变为符合您所在的国家或地区的网络环境。  
 ```py
 pip install -r requirements.txt
+hub install plato-mini
+hub install porn_detection_cnn
 ```
 如果您使用GPU进行运算，您可以使用以下命令：  
 ```py
