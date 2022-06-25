@@ -2,7 +2,7 @@
 An API based on Django.
 
 # Introduction
-This is an API project. The original intention is that there is no similar project, so I want to build one. This project will be constantly updated, and is committed to benefiting more people. If you want to join us, welcome! If you have any problems during use, please submit the issue.
+This is an API project. The original intention is that there is no similar project, so we want to build one. This project will be constantly updated, and is committed to benefiting more people. If you want to join us, welcome! If you have any problems during use, please submit the issue.
 
 # Installation
 This is a Python based project, so first make sure you have Python 3.6 or above.
