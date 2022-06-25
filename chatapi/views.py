@@ -57,12 +57,12 @@ def index(request):
             'content':results[0],
         }
         return HttpResponse(json.dumps(data,ensure_ascii=False),content_type="application/json,charset=utf-8")
-    elif TYPE == 'html':
+    '''elif TYPE == 'html':
         data={
             'result':code,
             'content':results[0],
         }
         #return HttpResponse(('{"result":',code,',"content":"',results[0],'"}'),content_type="text/html,charset='utf-8',lang=zh-cn")
-        return HttpResponse(json.dumps(data,ensure_ascii=False),content_type="text/html,charset=utf-8")
+        return HttpResponse(json.dumps(data,ensure_ascii=False),content_type="text/html,charset=utf-8")'''#BUG(zh)
     else:
         return HttpResponse('Error Format!')
